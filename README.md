@@ -1,3 +1,5 @@
+![Snake Game Screenshot](./public/demo.png)
+
 # SnakeGame
 
 - This is a simple snake game built with React, TypeScript, and Vite.
@@ -22,4 +24,3 @@ To run this project locally, follow these steps:
     npm install
     
 
-![Snake Game Screenshot](./public/demo.png)
