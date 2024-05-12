@@ -119,8 +119,8 @@ useEffect(()=>{
 
 
 return (
-  <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh',marginLeft:'480px' }}>
-    <div style={{ textAlign: 'center',marginBottom:'100px' }}>
+  <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh', backgroundColor:"#242424"}}>
+    <div style={{ textAlign: 'center', }}>
       <h1>{gameover ? 'Game Over' : 'Snake Game'}</h1>
       <h2>Score: {score}</h2>
       <div
