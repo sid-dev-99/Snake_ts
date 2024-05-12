@@ -22,4 +22,4 @@ To run this project locally, follow these steps:
     npm install
     
 
-![Snake Game Screenshot]("./public/demo.png")
+![Snake Game Screenshot](./public/demo.png)
